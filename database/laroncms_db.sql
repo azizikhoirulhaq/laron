@@ -1,5 +1,5 @@
 /* Laron CMS Database 
-* by azizi_haq@yahoo.com
+* by Azizi Khoirul Haq
 * created date : 16/02/2016
 */
 
