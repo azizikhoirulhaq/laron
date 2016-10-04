@@ -7,7 +7,7 @@
 CREATE TABLE lr_admin (
 	admin_id TINYINT(4) PRIMARY KEY auto_increment,
 	admingroup_id TINYINT(5),
-	admin_username VARCHAR(20),
+	admin_username VARCHAR(30),
 	admin_password VARCHAR(100),
 	admin_name VARCHAR(200) 
 );
