@@ -9,7 +9,7 @@ CREATE TABLE lr_admin (
 	admingroup_id TINYINT(5),
 	admin_username VARCHAR(20),
 	admin_password VARCHAR(100),
-	admin_name VARCHAR(100) 
+	admin_name VARCHAR(200) 
 );
 
 /* table lr_admingroup */
