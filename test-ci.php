@@ -1,5 +1,5 @@
 <?php
-$array=['Azizi','Khoirul','Haq'];
+$array=['Inti','Artistika','Solusitama'];
 foreach ($array as $k => $v){
  echo $v;;
 }
